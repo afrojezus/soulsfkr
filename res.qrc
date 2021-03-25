@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>peko.jpg</file>
+        <file>gun.jpg</file>
+    </qresource>
+    <qresource prefix="/audio">
+        <file>working.wav</file>
+        <file>noticed.wav</file>
+    </qresource>
+</RCC>
